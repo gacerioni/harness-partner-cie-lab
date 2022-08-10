@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.gabsthecreator</groupId>
-    <artifactId>fullstack-springboot-react</artifactId>
+    <artifactId>harness-partner-cie-lab</artifactId>
     <version>0.5.5</version>
-    <name>fullstack-springboot-react</name>
+    <name>harness-partner-cie-lab</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>17</java.version>
@@ -35,7 +35,6 @@
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
-            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
