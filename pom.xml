@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.gabsthecreator</groupId>
     <artifactId>harness-partner-cie-lab</artifactId>
-    <version>0.5.5</version>
+    <version>0.5.6</version>
     <name>harness-partner-cie-lab</name>
     <description>Demo project for Spring Boot</description>
     <properties>
