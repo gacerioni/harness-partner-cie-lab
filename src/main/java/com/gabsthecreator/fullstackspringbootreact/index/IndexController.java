@@ -31,7 +31,7 @@ public class IndexController {
                 "}" +
                 "</style>" +
                 "</header>\n" +
-                "<body>\n" + "<h1>Hello, there!</h1><h2>Spring Boot App by Gabs! - Our Lab works!</h2>" +
+                "<body>\n" + "<h1>Hello, there!</h1><h2>Spring Boot App by Gabs! - Salve Jhonny!</h2>" +
                 "<h3>App Metadata</h3>" +
                 "<table>\n" +
                 "  <tr>\n" +
